@@ -69,7 +69,23 @@ html, body{
 }
 .img-icon:hover{
   border-color: var(--blue-marine-);
+
+  transition: all 0.7s ;
 }
 .img-icon img{
   width: 100px;
+}
+
+
+.mensagem-sucesso{
+  height: 33px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-categorias{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
