@@ -14,3 +14,20 @@ html, body{
   color: var( --white-ice);
 }
 
+a{
+  color: var( --white-ice);
+  text-decoration: none;
+}
+a:hover{
+  color: var( --blue-marine-);
+  text-decoration: underline;
+}
+h1{
+  padding: 20px;
+}
+
+.div-style{
+  padding: 10px;
+  background: #26242bb4;
+}
+
