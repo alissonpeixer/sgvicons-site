@@ -1,0 +1,16 @@
+:root {
+  --black: #18161f;
+  --gray: #787490;
+  --white-ice: #d6d4e2;
+  --whute: #ffffff;
+  --blue-marine-: #00d9c0
+}
+
+html, body{
+  background-color: #18161f;
+  font-family: 'Space Grotesk', sans-serif;
+  transition: all 0.5s ease-out;
+  
+  color: var( --white-ice);
+}
+
