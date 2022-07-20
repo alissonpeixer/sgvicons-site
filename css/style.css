@@ -17,6 +17,14 @@ html, body{
   cursor: default;
 }
 
+a{
+  color: var( --white-ice);
+  text-decoration: none;
+}
+a:hover{
+  color: var( --blue-marine-);
+  text-decoration: underline;
+}
 .container {
   background-image: url(/assents/blur.png);
   background-size: cover;
@@ -82,6 +90,8 @@ html, body{
   display: flex;
   align-items: center;
   justify-content: center;
+
+  color: var(--blue-marine-)
 }
 
 .container-categorias{

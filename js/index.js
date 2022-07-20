@@ -10,7 +10,7 @@ document.addEventListener('click', function(e){
 
 function sucesso(el){
   const msg = document.querySelector('.mensagem-sucesso');
-  msg.innerText =`Copiado o incone do ${el.alt}!`
+  msg.innerText =`Copiado para area de tranferencia o incone do ${el.alt}!`
 }
 
 function copySrc(src) {
