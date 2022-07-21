@@ -1,4 +1,6 @@
 document.addEventListener('click', function(e){
+  e.preventDefault()
+  
   const el = e.target;
   if(el.classList.contains('icon')){
     const el = e.target
