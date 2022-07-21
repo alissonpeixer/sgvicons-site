@@ -12,7 +12,7 @@
       <br>
     </kdb>
     <br>
-    ---
+
     <span class="copyright">Criado com ❤️ para todos by  <a href="https://github.com/alissonpeixer">Alisson Peixer</a></span>
-    ---
+
 </p>
