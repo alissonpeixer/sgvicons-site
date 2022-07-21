@@ -74,12 +74,18 @@ a:hover{
   border-radius: 35px;
   margin: 4px;
   padding: 10px;
+
+  background: #18161f44;
 }
 .img-icon:hover{
   border-color: var(--blue-marine-);
-
+  background: #00d9c057;
   transition: all 0.7s ;
 }
+.img-icon img{
+  width: 100px;
+}
+
 .img-icon img{
   width: 100px;
 }
